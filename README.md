@@ -1,4 +1,6 @@
-## Hello World, my name is Paola!
+## Hello World!
+
+👩🏻‍💻Sou uma aspirante na área de TI. Possuo experiência em suporte técnico, programação de jogos e gerenciamento de projetos. Além disso, estou buscando aprendizado na formação de full stack. Atualmente, estou em busca de aprimorar minhas habilidades em CSS, HTML, PHP, JavaScript e SQL e etc. Estou sempre buscando uma evolução constante e aprendizado na área de tecnologia.
 
 ### ⚙️ GitHub Analytics
 
