@@ -1,4 +1,4 @@
-## Olá, meu nome é Paola!
+## Hello World, my name is Paola!
 
 ### ⚙️ GitHub Analytics
 
